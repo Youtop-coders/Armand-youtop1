@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+     <meta charset="UTF-8">
+     <title>Youtop-coders </title>
+   
+     <link rel="stylesheet" href="trix.css">
+</head>
+<body>
+ <section class="home">
+    <div class="home-box">
+      <nav class="navbar">
+       <div class="logo bars">
+         <div class="bar">
+        
+           </div>
+       
+               <h1> Youtop</h1>
+          </div>
+            <div class="menu">
+               <div class="close">
+               <i class="fa fa-close"></i>
+                </div>
+              <ul>
+         <li><a href="#">Accueil</a></li>
+        <li><a href="#">Orientation</a></li>
+        <li><a href="#">propos</a></li>
+        <li><a href="#">Nos contact</a></li>
+                         </ul>
+                    </div>
+                    <br><br>
+                    <div class="login-signup">
+            <a href="exo1.html">Se connecter</a>
+               <a href="form-conte-inscrit">S'inscrire</a>
+     
+                    </div>
+               </nav>
+
+               <div class="content">
+                    <h1>YOUTOP</h1>
+                    <h1>Pour l'orientation de vos études </h1>
+                    <br><br><br>
+                    <br><br>
+                    <h3>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Delectus sapiente aperiam aliquam alias necessitatibus quos cupiditate assumenda adipisci odio modi.</h3>
+                    <div class="search">
+                         <i class="fa fa-search"></i>
+                         <input type="text" placeholder="recheche">
+                         <button>recherche</button> 
+                         </div>
+     </div>
+          </div>
+          
+     </section>
+         <h1>Présentation du Youtop</h1>
+     <figure>
+         <video
+             src="file:///storage/emulated/0/Download/Tric/Youtop un site éducatif (1).mp4" 
+             width="400" heigth="400"
+              controls>
+         </video>
+     </figure>
+  <section class="feedback">
+          <div class="container">
+               <h2>L'ensemble des Filiéres pour votre formation Professionnelle ou Universitaire</h2>
+ <h1>Youtop</h1>
+          </div>
+          <div class="voices">
+               <div class="voice">
+                    <div class="profile">
+                         <img src="file:///storage/emulated/0/Download/Tric/IMG-20240627-WA0031.jpg" alt="">
+               <div class="detail">
+                      <li>Filiére de la Technologie</li>
+                        
+                                                 </div>
+                    </div>
+                    <p>"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veritatis numquam esse non nostrum, natus quibusdam assumenda libero tgdhkb gfd ggd gfdfgh ggjddtgc hyufdd "</p>
+                    <br>
+                    <button a="#" class="onclik">Description</button>
+               </div>
+               <div class="voice">
+                    <div class="profile">
+         <img src="file:///storage/emulated/0/Download/Tric/doc.jpg" alt="">
+                         <div class="detail">
+                              <li>Filiére de la Médecine </li>
+                              </div>
+                    </div>
+                    <p>"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veritatis numquam esse non nostrum, natus quibusdam assumenda libero"</p><br>
+                      <button a="#" class="onclik">Description</button>
+               </div>
+               <div class="voice">
+                    <div class="profile">
+                         <img src="file:///storage/emulated/0/Download/Tric/IMG-20240627-WA0031.jpg" alt="">
+                         <div class="detail">
+                              <li>Filière de gestion et économie </li>
+                              
+                         </div>
+                    </div>
+                    <p>"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veritatis numquam esse non nostrum, natus quibusdam assumenda libero"</p><br>
+                      <button a="#" class="onclik">Description</button>
+               </div>
+               <div class="voice">
+                    <div class="profile">
+                     <img src="file:///storage/emulated/0/Download/Tric/maitre.jpg " alt="">
+            <div class="detail">
+             <li>Filière de Droit</li>
+        </div>
+                    </div>
+                    <p>"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veritatis numquam esse non nostrum, natus quibusdam assumenda libero"</p><br>
+                      <button a="#" class="onclik">Description</button>
+               </div>
+               <div class="voice">
+                    <div class="profile">
+             <img src="file:///storage/emulated/0/Download/Tric/liter.jpg" alt="">
+                         <div class="detail">
+                              <li>Filière Littéraire </li>
+                              
+                         </div>
+                    </div>
+                    <p>"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veritatis numquam esse non nostrum, natus quibusdam assumenda libero"</p><br>
+                      <button a="#" class="onclik">Description</button>
+               </div>
+               <div class="voice">
+                    <div class="profile">
+                  <img src="file:///storage/emulated/0/Download/Tric/agro.jpg" alt="">
+                         <div class="detail">
+                              <li>Filière de Science Agronomique </li>
+                              </div>
+                    </div>
+                    <p>"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veritatis numquam esse non nostrum, natus quibusdam assumenda libero"</p><br>
+                      <button a="#" class="onclik">Description</button>
+               </div>
+          </div>
+     </section>
+
+     <section class="article">
+          <h2 class="heading">Quelques Les universités et des écoles de formation reconnues par l'état  </h2>
+          <div class="container">
+               <div class="latest-article">
+                    <img src="file:///storage/emulated/0/Pictures/facebook/FB_IMG_17213303383260114.jpg" alt="">
+                    <h3>Institut Comptalia Training</h3>
+                    <p>ICT est un institut de formation reconnu par l'état pour former les nouveaux cadres qualifié. Et même sans le BACCALAURÉAT vous pouvez suivre une formation qualifiante et professionnelle. Pour plus de renseignements veuillez vous rapprocher à la direction </p>
+                    
+                    <br><br><br><br>
+                      <br><br><br><br>
+                   <center>  <button a="#" class="onclik">Voir plus </button></center>
+                    
+               
+               </div>
+               <div class="more-article">
+                    <div class="box">
+                         <div class="image">
+                              <img src="file:///storage/emulated/0/Pictures/facebook/FB_IMG_17213860483253871.jpg" alt="">
+                         </div>
+                         
+                         <div class="text">
+                              <h3>Congo Technologie </h3>
+                              <li>formation reconnu par l'état pour former les nouveaux cadres qualifié. Et même sans le BACCALAURÉAT vous pouvez suivre une formation qualifiante et professionnelle. Pour plus de renseignements veuillez vous rapprocher à la direction</li>
+                         </div>
+                    </div>
+                    <div class="box">
+                         <div class="image">
+                              <img src="file:///storage/emulated/0/Pictures/facebook/sueco.jpg" alt="">
+                         </div>
+                         <div class="text">
+                              <h3>SUECO</h3>
+                              <li>formation reconnu par l'état pour former les nouveaux cadres qualifié. Et même sans le BACCALAURÉAT vous pouvez suivre une formation qualifiante et professionnelle. Pour plus de renseignements veuillez vous rapprocher à la direction</li>
+                         </div>
+                    </div>
+                    <div class="box">
+                         <div class="image">
+                              <img src="file:///storage/emulated/0/Pictures/facebook/2i.jpg" alt="">
+                         </div>
+                         <div class="text">
+                              <h3>Institut International 2i</h3>
+                              <li>formation reconnu par l'état pour former les nouveaux cadres qualifié. Et même sans le BACCALAURÉAT vous pouvez suivre une formation qualifiante et professionnelle. Pour plus de renseignements veuillez vous rapprocher à la direction</li>
+                         </div>
+                    </div>
+                    <div class="box">
+                         <div class="image">
+                              <img src="file:///storage/emulated/0/Pictures/facebook/ucac.jpg" alt="">
+                         </div>
+                         <div class="text">
+                              <h3>INSTITU UCAC-ICAM</h3>
+                              <li>formation reconnu par l'état pour former les nouveaux cadres qualifié. Et même sans le BACCALAURÉAT vous pouvez suivre une formation qualifiante et professionnelle. Pour plus de renseignements veuillez vous rapprocher à la direction</li>
+                         </div>
+                    </div>
+               </div>
+          </div>
+     </section>
+  
+
+     <footer>
+          <section class="footer">
+               <div class="container">
+                    <div class="detail">
+                         <h3>Travel</h3>
+                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere in, non praesentium soluta quis enim aperiam aliquam, rem totam porro, vel obcaecati modi architecto error maiores iusto quaerat aut eum.</p>
+                         <h5>get in touch</h5>
+                                               <a href="mailto:frontendtrend@gamail.com">armandmbaloula@mail.com</a>
+                         <div class="social">
+                              <a href="#"><i class="fa-brands fa-telegram"></i></a>
+                              <a href="#"><i class="fa-brands fa-facebook"></i></a>
+                              <a href="#"><i class="fa-brands fa-twitter"></i></a>
+        
+        <a href="#"><i class="fa-brands fa-whatsapp business"></i></a>
+ <a href="#"><li class="fa-brands fa-instagram"></li></a>        
+                         </div>
+                    </div>
+                 
+                    <div class="about-us">
+                         <h4>Aide</h4>
+                         <li><a href="#">FAQ</a></li>
+                         <li><a href="#">Guide de réservation</a></li>
+                         <li><a href="#">Politique d’annulation</a></li>
+                         <li><a href="#">site map</a></li>
+                    </div>
+                          <div class="copyright">
+                    <div>&copy;2024 - Travel, inc, tous droits réservés</div>
+                    <div>
+                         <a href="#">termes et conditions </a>
+                         <a href="#">politique confidentialité </a>
+                          <a href="tel:+242068956986">Me joindre</a>
+                    </div>
+               </div>
+          </section>
+      </footer>
+    
+</body>
+</html>
