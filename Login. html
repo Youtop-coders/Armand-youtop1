@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>page connecté </title>
+    <link rel="stylesheet" href="exo1.css">
+    
+</head>
+<body>
+    <div class="container">
+        <div class="box">
+            <form class="box-login" id="login">
+                <div class="top-header">
+                    <h3 style="color:#fff;">Bienvenue chez Youtop</h3>
+                    <h3 style="color:#fff;" >Se Connecter </h3>
+                </div>
+                <div class="input-group">
+                    <div class="input-field">
+                        <input type="email" id="logEmail" class="input-box" required>
+                        <label for="logEmail">Email</label>
+                    </div>
+                    <div class="input-field">
+                        <input type="password" id="logPassword" class="input-box" required>
+                        <label for="logPassword">Mot de passe </label>
+                        <div class="eye-area">
+                            <div class="eye-box" onclick="myLogPassword()">
+                                <i class="fa-solid fa-eye" id="eye"></i>
+                                <i class="fa-solid fa-eye-low-vision" id="eye-slash"> </i>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="remember">
+                        <input type="checkbox" id="formCheck" class="check">
+                        <label for="formCheck" style="color:#fff;">Souvenez vous de moi</label>
+                    </div>
+                    <div class="input-field">
+                        <input type="submit" value="connecté" class="input-submit">
+                    </div>
+                    <div class="forgot"><a href="#">Mot de passe oublié?</a></div>
+                </div>
+            </form>
+
+            <form class="box-register" id="register">
+                <div class="top-header">
+                    <h3 style="color:#fff;">Bienvenue chez Youtop</h3>
+                    <h3 style="color:#fff;">S'inscrire </h3>
+                </div>
+                <div class="input-group">
+                    <div class="input-field">
+                        <input type="text" id="regUser" class="input-box" required>
+                        <label for="regUser">Nom</label>
+                    </div>
+                    <div class="input-field">
+                        <input type="email" id="regEmail" class="input-box" required>
+                        <label for="regEmail">Email</label>
+                    </div>
+                    <div class="input-field">
+                        <input type="password" id="regPassword" class="input-box" required>
+                        <label for="regPassword">Mot de passe </label>
+                        <div class="eye-area">
+                            <div class="eye-box" onclick="myRegPassword()">
+                                <i class="fa-solid fa-eye" id="eye-2"></i>
+                                <i class="fa-solid fa-eye-low-vision" id="eye-slash-2"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="remember">
+                        <input type="checkbox" id="formCheck-2" class="check">
+                        <label for="formCheck-2">j'accepte les termes et conditions </label>
+                    </div>
+                    <div class="input-field">
+                        <input type="submit" value="s'enregistre " class="input-submit">
+                    </div>
+                </div>
+            </form>
+
+            <div class="switch">
+                <a href="#" class="login" onclick="login()">Connexion </a>
+                <a href="#" class="register" onclick="register()">S'inscrire </a>
+                <div class="btn-active" id="btn"></div>
+            </div>
+
+        </div>
+    </div>
+
+    <script src="exo1.js"></script>
+</body>
+</html>
